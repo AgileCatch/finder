@@ -9,7 +9,17 @@
 
 </br>
 
-💡**기능**
+## 🎲 **기간 및 기여도**
+
+**기간** : 23.09.25 ~ 23.10.5 `2주`
+
+**참여 인원** : `4명`
+
+**기여도 : `30%`**
+
+---
+
+💡**이런 기능이 있어요**
 
 1. **영상 검색**
 
@@ -23,7 +33,14 @@
 
 - 메인 페이지에서 인기순위대로 동영상을 추천해주고 , 카테고리별로 영상을 나눠볼 수 있습니다.
 
-## ✈️ **사용한 언어 및 라이브러리**
+## ⚙️ **내가 사용한 기술 스택**
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+
 - Kotlin
 - Retrofit
 - SharedPreference
@@ -33,20 +50,10 @@
 - Glide
 - Dialog Fragment
 - MVVM
-
-</br>
-
+  
 ## 📱 **와이어프레임**
 
 <img width="635" alt="finder_wirframe" src="https://github.com/Android-Team-13-Maniacs/android_project_maniacs/assets/106515742/5327e78c-5ff9-4bde-b93b-9d53fdd1b29b">
-
-</br>
-
-## 👩🏻‍💻 **참여 인원** 
-안드로이드 개발자 4명
-
-## **기여도**
-30%
 
 </br>
 
@@ -74,7 +81,7 @@
 
 ### **1) HomeFragment**
 
-<img width="200" alt="home" src="https://github.com/Android-Team-13-Maniacs/finder/assets/106515742/75d126fe-cd9f-4db9-ba09-3fffa901499a">
+<img width="200" alt="home" src="https://github.com/AgileCatch/finder/assets/106515742/222247fd-2a4f-49db-ab42-89d535513d4d">
 
 ### **2) SearchFragment**
 
@@ -82,14 +89,11 @@
 
 ### **3) DetailActivtiy**
 
-<img width="200" alt="detail" src="https://github.com/Android-Team-13-Maniacs/finder/assets/106515742/a6407e86-21f0-4bd5-b24b-ad75ee198b8c">
-
-- 갤러리에서 사진을 가져오기 위한 **권한 허용 로직**을 도입하여 **UX를 향상**
-- **SharedPreferences를 활용**하여 앱 내에 프로필과 닉네임을 저장하고 관리할 수 있도록 구현
+<img width="200" alt="detail" src="https://github.com/AgileCatch/finder/assets/106515742/8061b768-bbfa-4cc4-8b3e-72847b76264d">
 
 ### **4) MyVideoFragment**
 
-<img width="200" alt="myVideo" src="https://github.com/Android-Team-13-Maniacs/finder/assets/106515742/e58868fe-fdd0-42ac-a8ae-c55aa23829cd">
+<img width="200" alt="myVideo" src="https://github.com/AgileCatch/finder/assets/106515742/bbab577b-f528-444b-8fb2-7769821a301b">
 
 ## **Figma를 활용한 전반적인 UI/UX 디자인**
 
