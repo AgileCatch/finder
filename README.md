@@ -4,7 +4,6 @@
 Finder는 **YouTube의 원하는 영상을 검색**하고 즐길 수 있는 어플리케이션입니다.   
 키워드 검색, 인기 동영상, 카테고리 별 영상을 통해  여러분의 취향에 맞는 콘텐츠를 찾을 수 있습니다. 
 
-</br>
 
 ## 🎲 **기간 및 기여도**
 
@@ -18,6 +17,8 @@ Finder는 **YouTube의 원하는 영상을 검색**하고 즐길 수 있는 어�
 
 💡**이런 기능이 있어요**
 
+```
+
 1. **영상 검색**
 
 - 키워드만 가지고 영상을 검색하고 원하는 순서대로 정렬할 수 있습니다.
@@ -29,6 +30,10 @@ Finder는 **YouTube의 원하는 영상을 검색**하고 즐길 수 있는 어�
 3. **인기 영상, 카테고리별 영상 추천!**
 
 - 메인 페이지에서 인기순위대로 동영상을 추천해주고 , 카테고리별로 영상을 나눠볼 수 있습니다.
+
+```
+
+---
 
 ## ⚙️ **내가 사용한 기술 스택**
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
@@ -47,6 +52,8 @@ Finder는 **YouTube의 원하는 영상을 검색**하고 즐길 수 있는 어�
 - Glide
 - Dialog Fragment
 - MVVM
+
+---
   
 ## 📱 **와이어프레임**
 
