@@ -154,4 +154,3 @@ Finder는 **YouTube의 원하는 영상을 검색**하고 즐길 수 있는 어�
 
 [💡[Devolg] 뷰페이저 중복문제 해결하기](https://agilecatch.github.io/devlog/fixit/2023-09-27-%EB%B7%B0%ED%8E%98%EC%9D%B4%EC%A0%80%EC%A4%91%EB%B3%B5/)
 
-
